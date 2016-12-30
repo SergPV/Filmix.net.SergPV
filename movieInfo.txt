@@ -1,0 +1,173 @@
+16:06:33 T:3560   DEBUG: {
+'director': '', 
+'genres': '', 
+'description': u'', 
+'fanart': u'http://filmix.net/uploads/frames/112056/f92988-startrek-beskonechnost-2016_original.jpg', 
+'ratingCount': 0, 
+'cover': u'http://filmix.net/uploads/posters/thumbs/w220/startrek-beskonechnost-2016_112056_0.jpg', 
+'originaltitle': u'Star Trek Beyond', 
+
+'movies': [
+{'movies': 
+	{
+'480': ['http://wx17.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/hd_01/Star.Trek.Beyond.2016.BDRip.1080p_480.mp4'], 
+'360': ['http://wx17.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/hd_01/Star.Trek.Beyond.2016.BDRip.1080p_360.mp4'], 
+'720': ['http://wx17.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/hd_01/Star.Trek.Beyond.2016.BDRip.1080p_720.mp4'], 
+'1080': ['http://wx17.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/hd_01/Star.Trek.Beyond.2016.BDRip.1080p_1080.mp4']
+	}, 
+'folder_title': '1'}
+	], 'episodes': True, 'ratingValue': 0, 'year': u'2016', 'resolutions': [], 'no_files': None, 'durarion': 7200}
+
+==============================================
+
+16:12:02 T:1884   DEBUG: {'director': '',
+'genres': '', 
+'description': u'', 
+'title': u'',
+'fanart': u'http://filmix.net/uploads/frames/113897/f230573-bibliotekari-2014_original.jpg', 
+'ratingCount': 0, 
+'cover': u'http://filmix.net/uploads/posters/thumbs/w220/bibliotekari-2014_113897_0.jpg', 
+'originaltitle': u'The Librarians', 
+'movies': [
+{'movies': 
+{u'480': [
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e01_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e02_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e03_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e04_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e05_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e06_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e07_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e08_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e09_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e10_480.mp4'], 
+
+u'360': [
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e01_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e02_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e03_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e04_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e05_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e06_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e07_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e08_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e09_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e10_360.mp4'], 
+u'720': [
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e01_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e02_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e03_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e04_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e05_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e06_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e07_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e08_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e09_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e10_720.mp4'], 
+u'1080': [
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e01_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e02_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e03_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e04_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e05_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e06_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e07_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e08_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e09_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s01e10_1080.mp4']}, 
+'folder_title': u' \u0421\u0435\u0437\u043e\u043d 1'}, 
+
+
+{'movies': {
+u'480': [
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e01_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e02_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e03_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e04_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e05_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e06_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e07_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e08_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e09_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e10_480.mp4'], 
+
+u'360': [
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e01_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e02_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e03_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e04_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e05_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e06_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e07_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e08_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e09_360.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e10_360.mp4'], 
+
+u'720': [
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e01_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e02_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e03_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e04_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e05_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e06_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e07_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e08_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e09_720.mp4', u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-
+
+lostfilm/s02e10_720.mp4'], 
+
+u'1080': [
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e01_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e02_1080.mp4', u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-
+
+lostfilm/s02e03_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e04_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e05_1080.mp4', u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-
+
+lostfilm/s02e06_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e07_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e08_1080.mp4', u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-
+
+lostfilm/s02e09_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s02e10_1080.mp4']}, 
+'folder_title': u' \u0421\u0435\u0437\u043e\u043d 2'}, 
+
+{'movies': {
+u'480': [
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s03e01_480.mp4', u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-
+
+lostfilm/s03e02_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s03e03_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s03e04_480.mp4', u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-
+
+lostfilm/s03e05_480.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s03e06_480.mp4'], 
+
+u'360': [
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s03e01_360.mp4'], 
+
+u'720': [
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s03e01_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s03e02_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s03e03_720.mp4', u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-
+
+lostfilm/s03e04_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s03e05_720.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s03e06_720.mp4'], 
+
+u'1080': [
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s03e01_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s03e02_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s03e03_1080.mp4', u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-
+
+lostfilm/s03e04_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s03e05_1080.mp4', 
+u'http://to060.poiuytrew.pw/s/a2b1db7e99edd9b0789b2c89e69288e4/The-Librarians-lostfilm/s03e06_1080.mp4']}, 
+'folder_title': u' \u0421\u0435\u0437\u043e\u043d 3'}], 
+
+'episodes': True, 
+'ratingValue': 0, 
+'year': u'2014', 
+'resolutions': [], 
+'no_files': None, 
+'durarion': 2520}
