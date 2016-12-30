@@ -41,38 +41,53 @@ def GetHTML(url):
 # Тест на работоспособность
 #url = 'http://filmix.net/play/114801'
 url = 'http://filmix.net/dramy/104910-eddi-orel-2016.html'
+#url = 'http://filmix.net/dramy/111228-radiovolna-2016.html'
 html = GetHTML(url)
 
 # Отримуємо прямі лінки на всі дубляжі
+print 'Прямі лінки на всі дубляжі'.decode('utf-8')
 compil2 = re.compile('data-translation-link="([^\"]+)"', re.S).findall(html)
-#.decode('string_escape').decode('utf-8')
 print '========'
 # Конвертуємо в читабельний вигляд (в імені перераховані всі якості)
-js_string0 = decode_direct_media_url(compil2[0].decode('string_escape').decode('utf-8'))
-js_string1 = decode_direct_media_url(compil2[1].decode('string_escape').decode('utf-8'))
-js_string2 = decode_direct_media_url(compil2[2].decode('string_escape').decode('utf-8'))
+for js in compil2:
+    js_str = decode_direct_media_url(js.decode('string_escape').decode('utf-8'))
+    print js_str
+    if(js_str.find('.txt') != -1):
+        playlist = decode_direct_media_url(GetHTML(js_str)).decode('utf-8')
+        print playlist
 
-print js_string0
-print js_string1
-print js_string2
+print '========'
+
+
+# Отримати список дубляжів
+print 'Список дубляжів:'.decode('utf-8')
 print '++++++++'
+trans_all = re.compile('data-locked="no">([^\"]+)</span></li>', re.S).findall(html)
+for trans in trans_all:
+    print trans
+
+print '========'
 
 
+'''
 # Отримуємо лінк на дубляж по змовчуванню (в імені перераховані всі якості)
+print 'Лінк на дубляж по змовчуванню (в імені перераховані всі якості)'.decode('utf-8')
 js_string = decode_direct_media_url(re.compile("videoLink = '([^\']+)';", re.S).findall(html)[0].decode('string_escape').decode('utf-8'))
 print js_string
+if(js_string.find('.txt') != -1):
+        playlist = decode_direct_media_url(GetHTML(js_string)).decode('utf-8')
+        print playlist
 
 # Отримуємо список присутніх якостей відео
+print 'Список присутніх якостей відео'.decode('utf-8')
 avail_quality = get_qualitys(js_string)
 print avail_quality
 print '--------'
 
 # Отрмуємо лінки на відео різної якості
+print 'Лінки на відео різної якості'.decode('utf-8')
 for q in avail_quality:
                   if(q == ''): continue
                   direct_link = format_direct_link(js_string, q) if q != 0 else js_string
                   print direct_link
-
-
-
-
+'''
