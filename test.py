@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # Импортируем нужные нам библиотеки
-import urllib, urllib2, re, sys, os, base64
+import urllib, urllib2, re, sys, os, base64, ssl
 import parser
 
 
@@ -32,7 +32,8 @@ def decode_direct_media_url(encoded_url):
 # Функция для получения исходного кода web-страниц
 def GetHTML(url):
     headers = {'User-Agent':'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3', 'Content-Type':'application/x-www-form-urlencoded'}
-    conn = urllib2.urlopen(urllib2.Request(url, urllib.urlencode({}), headers))
+    context = ssl._create_unverified_context()
+    conn = urllib2.urlopen(urllib2.Request(url, urllib.urlencode({}), headers), context=context)
     html = conn.read()
     conn.close()
 
